@@ -26,11 +26,6 @@ If this work is useful for your research, please consider citing:
 ## Disclarm
 - Note that our code is partly based on [radioml](https://github.com/leena201818/radioml). Thanks [leena201818](https://github.com/leena201818) for his great work!
 
-## Requirements
-- Python 3.6.10
-- TensorFlow-gpu 1.14.0
-- Keras-gpu 2.2.4
-
 ## Content
 ### Model Performance
 The recognition accuracy of the MCLDNN is shown in Fig.1. 
@@ -38,6 +33,12 @@ The recognition accuracy of the MCLDNN is shown in Fig.1.
 <img src="https://github.com/wzjialang/MCLDNN/blob/master/figure/Acc.png" height="300"/>
 
 Fig.1 Recognition accuracy comparison on the RadioML2016.10a dataset.
+
+### Requirements
+- Python 3.6.10
+- TensorFlow-gpu 1.14.0
+- Keras-gpu 2.2.4
+
 ### Datasets
 The available datasets can be downloaded from the table below:
 <table>
@@ -53,7 +54,6 @@ The available datasets can be downloaded from the table below:
         <td>[<a href="https://pan.baidu.com/s/1VE2w7of0FW__EgMm3RreoA" target="_blank">drive password:1234</a>] [<a href="https://www.deepsig.ai/datasets" target="_blank">official</a>]</td>
     </tr>
 </table> 
-
 
 ### Training
 For the RadioML2016.10a dataset:
