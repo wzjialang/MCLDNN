@@ -16,16 +16,10 @@ Automatic modulation recognition (AMR) plays a vital role in modern communicatio
 - Kears-gpu 2.2.4
 
 
-## Content
-### Model Structure
-The structure of Multi-channel Convolutional Long Short-Term Deep Neural Network (MCLDNN) is shown in Fig.1.
-
-<img src="https://github.com/wzjialang/MCLDNN/blob/master/imgs/MCLDNN.png" height="800"/>
-
-Fig.1 MCLDNN. (The 3D boxes with different colors represent the data and features, and the numbers on the boxes represent their dimensions.)
 
 
-### Datasets
+
+## Datasets
 The available datasets can be downloaded from the table below:
 <table>
 	<tr>
