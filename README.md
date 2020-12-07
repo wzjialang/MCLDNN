@@ -35,7 +35,7 @@ If this work is useful for your research, please consider citing:
 ### Model Performance
 The recognition accuracy of the MCLDNN is shown in Fig.1. 
 
-<img src="https://github.com/wzjialang/MCLDNN/blob/master/figure/Acc.png" height="350"/>
+<img src="https://github.com/wzjialang/MCLDNN/blob/master/figure/Acc.png" height="300"/>
 
 Fig.1 Recognition accuracy comparison on the RadioML2016.10a dataset.
 ### Datasets
