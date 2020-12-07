@@ -32,6 +32,12 @@ If this work is useful for your research, please consider citing:
 - Keras-gpu 2.2.4
 
 ## Content
+### Model Performance
+The recognition accuracy of the MCLDNN is shown in Fig.1. 
+
+<img src="https://github.com/wzjialang/MCLDNN/blob/master/figure/Acc.eps" height="800"/>
+
+Fig.1 Recognition accuracy comparison on the RadioML2016.10a dataset.
 ### Datasets
 The available datasets can be downloaded from the table below:
 <table>
