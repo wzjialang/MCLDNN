@@ -1,5 +1,5 @@
 # A Spatiotemporal Multi-Channel Learning Framework for Automatic Modulation Recognition
-by Jialang Xu, Chunbo Luo, Gerard Parr, Yang Luo.
+by Jialang Xu (e-mail: 504006937@qq.com), Chunbo Luo, Gerard Parr, Yang Luo.
 
 Official implement of the paper, '[A Spatiotemporal Multi-Channel Learning Framework for Automatic Modulation Recognition](https://ieeexplore.ieee.org/document/9106397)'.
 
@@ -80,7 +80,3 @@ python test.py --datasetpath /path/to/RML2016.10b.dat --data 1
 
 ## License
 Code is released under the GPLv3 license for non-commercial and research purposes only. For commercial purposes, please contact the authors.
-
-
-## Q & A
-For any queries, please contact '504006937@qq.com'.
