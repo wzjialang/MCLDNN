@@ -12,8 +12,8 @@ Automatic modulation recognition (AMR) plays a vital role in modern communicatio
 
 ## Requirements
 - Python 3.6.10
-- Tensorflow-gpu 1.14.0
-- Kears-gpu 2.2.4
+- TensorFlow-gpu 1.14.0
+- Keras-gpu 2.2.4
 
 
 
