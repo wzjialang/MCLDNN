@@ -34,11 +34,6 @@ The recognition accuracy of the MCLDNN is shown in Fig.1.
 
 Fig.1 Recognition accuracy comparison on the RadioML2016.10a dataset.
 
-### Requirements
-- Python 3.6.10
-- TensorFlow-gpu 1.14.0
-- Keras-gpu 2.2.4
-
 ### Datasets
 The available datasets can be downloaded from the table below:
 <table>
@@ -54,6 +49,11 @@ The available datasets can be downloaded from the table below:
         <td>[<a href="https://pan.baidu.com/s/1VE2w7of0FW__EgMm3RreoA" target="_blank">drive password:1234</a>] [<a href="https://www.deepsig.ai/datasets" target="_blank">official</a>]</td>
     </tr>
 </table> 
+
+### Requirements
+- Python 3.6.10
+- TensorFlow-gpu 1.14.0
+- Keras-gpu 2.2.4
 
 ### Training
 For the RadioML2016.10a dataset:
