@@ -24,7 +24,7 @@ If this work is useful for your research, please consider citing:
 ```
 
 ## Disclarm
-- Note that our code is based on [radioml](https://github.com/leena201818/radioml). Thanks [leena201818](https://github.com/leena201818) for his great work!
+- Note that our code is partly based on [radioml](https://github.com/leena201818/radioml). Thanks [leena201818](https://github.com/leena201818) for his great work!
 
 ## Requirements
 - Python 3.6.10
