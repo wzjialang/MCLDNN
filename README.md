@@ -20,7 +20,7 @@ Automatic modulation recognition (AMR) plays a vital role in modern communicatio
 ### Networks
 The structure of Multi-channel Convolutional Long Short-Term Deep Neural Network (MCLDNN) is shown in Fig.1. The network is composed of 2D-CNN, 1D-CNN, LSTM, and fully connected layers.
 
-<img src="https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png" width="300" height="450"/>
+<img src="https://github.com/wzjialang/MCLDNN/blob/master/imgs/MCLDNN.png" height="800"/>
 
 Fig.1 MCLDNN. (The 3D boxes with different colors represent the data and features, and the numbers on the boxes represent their dimensions.)
 
