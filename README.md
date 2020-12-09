@@ -23,7 +23,7 @@ If this work is useful for your research, please consider citing:
 	}
 ```
 
-## Disclarm
+## Disclaimer
 - Note that our code is partly based on [radioml](https://github.com/leena201818/radioml). Thanks [leena201818](https://github.com/leena201818) for his great work!
 
 ## Content
