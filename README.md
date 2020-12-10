@@ -23,9 +23,6 @@ If this work is useful for your research, please consider citing:
 	}
 ```
 
-## Disclaimer
-- Note that our code is partly based on [radioml](https://github.com/leena201818/radioml). Thanks [leena201818](https://github.com/leena201818) for his great work!
-
 ## Content
 ### Model Performance
 The recognition accuracy of the MCLDNN is shown in Fig.1. 
@@ -77,6 +74,8 @@ For the RadioML2016.10b dataset:
 python test.py --datasetpath /path/to/RML2016.10b.dat --data 1
 ```
 
+## Acknowledgement
+Note that our code is partly based on [radioml](https://github.com/leena201818/radioml). Thanks [leena201818](https://github.com/leena201818) for his great work!
 
 ## License
 Code is released under the GPLv3 license for non-commercial and research purposes only. For commercial purposes, please contact the authors.
