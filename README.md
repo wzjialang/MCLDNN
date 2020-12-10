@@ -76,6 +76,3 @@ python test.py --datasetpath /path/to/RML2016.10b.dat --data 1
 
 ## Acknowledgement
 Note that our code is partly based on [radioml](https://github.com/leena201818/radioml). Thanks [leena201818](https://github.com/leena201818) for his great work!
-
-## License
-Code is released under the GPLv3 license for non-commercial and research purposes only. For commercial purposes, please contact the authors.
