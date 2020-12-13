@@ -1,5 +1,5 @@
 # A Spatiotemporal Multi-Channel Learning Framework for Automatic Modulation Recognition
-by Jialang Xu, Chunbo Luo, Gerard Parr, Yang Luo.
+by Jialang Xu (e-mail: 504006937@qq.com), Chunbo Luo, Gerard Parr, Yang Luo.
 
 Official implement of the paper, '[A Spatiotemporal Multi-Channel Learning Framework for Automatic Modulation Recognition](https://ieeexplore.ieee.org/document/9106397)'.
 
@@ -23,21 +23,14 @@ If this work is useful for your research, please consider citing:
 	}
 ```
 
-## Disclarm
-- Note that our code is based on [radioml](https://github.com/leena201818/radioml). Thanks [leena201818](https://github.com/leena201818) for his great work!
-
-## Requirements
-- Python 3.6.10
-- TensorFlow-gpu 1.14.0
-- Keras-gpu 2.2.4
-
 ## Content
 ### Model Performance
 The recognition accuracy of the MCLDNN is shown in Fig.1. 
 
-<img src="https://github.com/wzjialang/MCLDNN/blob/master/figure/Acc.png" height="800"/>
+<img src="https://github.com/wzjialang/MCLDNN/blob/master/figure/Acc.png" height="300"/>
 
 Fig.1 Recognition accuracy comparison on the RadioML2016.10a dataset.
+
 ### Datasets
 The available datasets can be downloaded from the table below:
 <table>
@@ -54,6 +47,10 @@ The available datasets can be downloaded from the table below:
     </tr>
 </table> 
 
+### Requirements
+- Python 3.6.10
+- TensorFlow-gpu 1.14.0
+- Keras-gpu 2.2.4
 
 ### Training
 For the RadioML2016.10a dataset:
@@ -77,10 +74,5 @@ For the RadioML2016.10b dataset:
 python test.py --datasetpath /path/to/RML2016.10b.dat --data 1
 ```
 
-
-## License
-Code is released under the GPLv3 license for non-commercial and research purposes only. For commercial purposes, please contact the authors.
-
-
-## Q & A
-For any queries, please contact '504006937@qq.com'.
+## Acknowledgement
+Note that our code is partly based on [radioml](https://github.com/leena201818/radioml). Thanks [leena201818](https://github.com/leena201818) for his great work!
