@@ -75,7 +75,7 @@ python test.py --datasetpath /path/to/RML2016.10b.dat --data 1
 ```
 
 ### Model Weights
-Weights for the RML2016.10a dataset. [[Download]](https://github-production-release-asset-2e65be.s3.amazonaws.com/197142181/3720c700-42de-11eb-9d2d-8faa3e8fb345?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20201220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201220T081659Z&X-Amz-Expires=300&X-Amz-Signature=bf21ce80bc280ee92236d2e557c41ad0fcf480c265248a2af9794a7db40fba16&X-Amz-SignedHeaders=host&actor_id=39873608&key_id=0&repo_id=197142181&response-content-disposition=attachment%3B%20filename%3Dweights.h5&response-content-type=application%2Foctet-stream)
+Weights for the RML2016.10a dataset. [[Download]](https://github-production-release-asset-2e65be.s3.amazonaws.com/197142181/3720c700-42de-11eb-9d2d-8faa3e8fb345?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20201227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201227T075310Z&X-Amz-Expires=300&X-Amz-Signature=53a86500f4637658d8f2d87ca60bb9e1836c45ec4c8a1bb316cab9551f3fab5d&X-Amz-SignedHeaders=host&actor_id=39873608&key_id=0&repo_id=197142181&response-content-disposition=attachment%3B%20filename%3Dweights.h5&response-content-type=application%2Foctet-stream)
 
 ## Acknowledgement
 Note that our code is partly based on [radioml](https://github.com/leena201818/radioml). Thanks [leena201818](https://github.com/leena201818) for his great work!
