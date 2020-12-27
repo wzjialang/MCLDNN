@@ -75,7 +75,7 @@ python test.py --datasetpath /path/to/RML2016.10b.dat --data 1
 ```
 
 ### Model Weights
-Weights for the RML2016.10a dataset. [[GDownload]](https://github.com/wzjialang/MCLDNN/releases/tag/weights) [[Baidu Netdisk password:1234]](https://pan.baidu.com/s/1H5vK2llm3BLQhJPi9csZ8Q)
+Weights for the RML2016.10a dataset. [[GitHub Download]](https://github.com/wzjialang/MCLDNN/releases/tag/weights) [[Baidu Netdisk password:1234]](https://pan.baidu.com/s/1H5vK2llm3BLQhJPi9csZ8Q)
 
 ## Acknowledgement
 Note that our code is partly based on [radioml](https://github.com/leena201818/radioml). Thanks [leena201818](https://github.com/leena201818) for his great work!
