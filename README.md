@@ -40,10 +40,10 @@ The available datasets can be downloaded from the table below:
 	</tr>
     <tr>
 	    <td>RadioML2016.10a</td>
-        <td>[<a href="https://pan.baidu.com/s/1VE2w7of0FW__EgMm3RreoA" target="_blank">Baidu Netdisk password:1234</a>] [<a href="https://www.deepsig.ai/datasets" target="_blank">official</a>] </td>
+        <td>[<a href="https://pan.baidu.com/s/1VE2w7of0FW__EgMm3RreoA" target="_blank">Baidu netdisk password:1234</a>] [<a href="http://opendata.deepsig.io/datasets/2016.10/RML2016.10a.tar.bz2?__hstc=24938661.c3f6b07ea02473f3eb9322d41420af01.1609405703209.1609405703209.1609405703209.1&__hssc=24938661.1.1609405703210&__hsfp=1818935939" target="_blank">Official</a>] </td>
 	</tr>
 	    <td>RadioML2016.10b</td>
-        <td>[<a href="https://pan.baidu.com/s/1VE2w7of0FW__EgMm3RreoA" target="_blank">Baidu Netdisk password:1234</a>] [<a href="https://www.deepsig.ai/datasets" target="_blank">official</a>]</td>
+        <td>[<a href="https://pan.baidu.com/s/1VE2w7of0FW__EgMm3RreoA" target="_blank">Baidu netdisk password:1234</a>] [<a href="http://opendata.deepsig.io/datasets/2016.10/RML2016.10b.tar.bz2?__hstc=24938661.c3f6b07ea02473f3eb9322d41420af01.1609405703209.1609405703209.1609405703209.1&__hssc=24938661.1.1609405703210&__hsfp=1818935939" target="_blank">Official</a>]</td>
     </tr>
 </table> 
 
@@ -75,7 +75,7 @@ python test.py --datasetpath /path/to/RML2016.10b.dat --data 1
 ```
 
 ### Model Weights
-Weights for the RML2016.10a dataset. [[GitHub Download]](https://github.com/wzjialang/MCLDNN/releases/tag/weights) [[Baidu Netdisk password:1234]](https://pan.baidu.com/s/1H5vK2llm3BLQhJPi9csZ8Q)
+Weights for the RML2016.10a dataset. [[GitHub download]](https://github.com/wzjialang/MCLDNN/releases/tag/weights) [[Baidu netdisk password:1234]](https://pan.baidu.com/s/1H5vK2llm3BLQhJPi9csZ8Q)
 
 ## Acknowledgement
 Note that our code is partly based on [radioml](https://github.com/leena201818/radioml). Thanks [leena201818](https://github.com/leena201818) for his great work!
