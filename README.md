@@ -5,7 +5,7 @@ Official implement of the paper, '[A Spatiotemporal Multi-Channel Learning Frame
 
 This repository contains MCLDNN implementation and datasets in the paper.
 
-The code of this repository has been integrated into the [AMR Benchmark](https://github.com/Richardzhangxx/AMR-Benchmark), which provides a unified implementation of several baseline deep learning models for automatic modulation recognition, thanks to the great contribution of [Fuxin zhang](https://github.com/Richardzhangxx).
+The code of this repository has been integrated into the [AMR Benchmark](https://github.com/Richardzhangxx/AMR-Benchmark), which provides a unified implementation of several baseline deep learning models for automatic modulation recognition, thanks to the great contribution of [Fuxin Zhang](https://github.com/Richardzhangxx).
 
 ## Introduction
 Automatic modulation recognition (AMR) plays a vital role in modern communication systems. We proposes a novel three-stream deep learning framework to extract the features from individual and combined in-phase/quadrature (I/Q) symbols of the modulated data. The proposed framework integrates one-dimensional (1D) convolutional, two-dimensional (2D) convolutional and long short-term memory (LSTM) layers to extract features more effectively from a time and space perspective. Experiments on the benchmark dataset show the proposed framework has efficient convergence speed and achieves improved recognition accuracy, especially for the signals modulated by higher dimensional schemes such as 16 quadrature amplitude modulation (16-QAM) and 64-QAM.
